@@ -1,0 +1,12 @@
+#define PI 3.14159265358979323846
+#define SCREEN_WIDTH 1000
+#define SCREEN_HEIGHT 1000
+#define CHUNK_MAP_SIZE 2048 
+#define BLOCK_MAP_SIZE 2048
+#define CHUNK_SIZE 16
+#define tMax 1000000
+
+
+Uint8 bg[3] = {100,160,230};
+
+float RESOLUTION_SIZE = 8;
